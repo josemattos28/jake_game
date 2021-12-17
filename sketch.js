@@ -2,7 +2,7 @@ var pista, imagem_pista, pl, imagem_pl;
 var barreira1, barreira2;
 var bomba_img;
 var moeda_img;
-var energy_img;
+var energy_img, teste;
 
 function preload(){
 
